@@ -1,2 +1,0 @@
-# NepaliSentiment
-Nepali Sentiment Classification
