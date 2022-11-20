@@ -11,5 +11,6 @@ Nepali Sentiment Classification.
 | Model | Score |
 | --- | --- |
 | TF-IDF + SVC | 0.55 |
+| TF-IDF + Emoji Decoded | 0.59 |
 | DeBerta large Mnli Feature Extraction | 0.45 |
 | DeBerta Base Nepali | 0.63 |
