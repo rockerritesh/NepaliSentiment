@@ -15,6 +15,7 @@ Nepali Sentiment Classification.
 | DeBerta large Mnli (Feature Extraction) | 0.45 |
 | DeBerta Base Nepali (Feature Extraction) | 0.63 |
 | NepaliBERT (fine tunning) | 0.746(F1:- 0.759, 0.840, 0.612) |
+| NepBERTa (fine tunning) | 0.741(F1:-0.749, 0.840, 0.619 |
 
 
 ## Some of the code are on private repo.(If you are interested then you can ask me for code).(Need To Be Done Some Cleaning)
