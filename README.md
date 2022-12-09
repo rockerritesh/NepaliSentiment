@@ -17,4 +17,4 @@ Nepali Sentiment Classification.
 | NepaliBERT (fine tunning) | 0.746(F1:- 0.759, 0.840, 0.612) |
 
 
-## All some of the code are on private repo.(If you are interested then you can ask me for code).(Need To Be Done Some Cleaning)
+## Some of the code are on private repo.(If you are interested then you can ask me for code).(Need To Be Done Some Cleaning)
